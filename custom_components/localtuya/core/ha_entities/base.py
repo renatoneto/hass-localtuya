@@ -537,6 +537,7 @@ class DPCode(StrEnum):
     SUCTION = "suction"
     SWING = "swing"  # Swing mode
     SWITCH = "switch"  # Switch
+    ZEMI_SWITCH = "zemi_switch"  # zemi Switch
     SWITCH1 = "switch1"  # Switch 1 no underscore
     SWITCH1_VALUE = "switch1_value"  # scene switch "wxkg"
     SWITCH2 = "switch2"  # Switch 2 no underscore
