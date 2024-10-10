@@ -37,7 +37,7 @@ PLATFORMS = {
     "Sensor": Platform.SENSOR,
     "Siren": Platform.SIREN,
     "Switch": Platform.SWITCH,
-    "ZemiSwitch": Platform.ZEMI_SWITCH,
+    "ZemiSwitch": Platform.SWITCH,
     "Vacuum": Platform.VACUUM,
     "Water Heater": Platform.WATER_HEATER,
 }
